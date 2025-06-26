@@ -41,6 +41,9 @@ const (
 	RETURN   = "RETURN"
 
 	STRING = "STRING"
+
+	LBRACKET = "["
+	RBRACKET = "]"
 )
 
 type TokenType string
